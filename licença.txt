@@ -1,0 +1,1 @@
+Este software foi escrito em Junho de 2014 para a disciplina Programação Orientada a Objetos por Miguel Barreto Rezende Marques de Freitas e Daniel Nora Castro e está sendo distribuído com fins didáticos para o curso de Introdução a Métodos de Programação do Processo Trainee da Struct. Qualquer utilização ou divulgação do mesmo fora deste contexto não é permitida.
