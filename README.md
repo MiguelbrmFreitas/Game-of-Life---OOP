@@ -1,3 +1,6 @@
+## Game of Life
+Java implementation of Conway's Game of Life using OOP best practices. The game can be played with different rules and be displayed in a GUI or console. It was made for college years ago and later I'll refactor this README and do some clean up in root files.
+
 Descrição:
 Este programa foi criado como uma resolucao da atividade proposta na disciplina de Programacao Orientada a Objetos da Universidade de Brasilia. Trata-se da implementacao do jogo Game of Life empregando alguns padroes de projeto de software para corrigir falhas num design previamente especificado.
 
